@@ -4,4 +4,5 @@ This repository contains my work for the ALU Zero Day project. It demonstrates b
 
 ## Projects
 - git: Introduction to Git basics and GitHub workflow
+- Bash: how to use shell
 
