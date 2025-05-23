@@ -1,7 +1,4 @@
 #!/bin/bash
 echo "Best School"
-<<<<<<< HEAD
 echo "The school is open!"
-=======
 
->>>>>>> master
