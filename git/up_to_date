@@ -1,8 +1,0 @@
-git checkout -b update_script
-git add . 
-git commit -m "Starting to code today, so cool"
-git push origin update_script
-#other commands 
-echo '#!/bin/bash' > bash/school
-echo 'echo "School"' >> bash/school
-cat bash/school
